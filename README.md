@@ -1,2 +1,2 @@
-MyProject
+MyProject trial for GitHub
 =========
